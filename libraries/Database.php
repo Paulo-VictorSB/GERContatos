@@ -1,6 +1,6 @@
 <?php
 
-namespace sys4soft;
+namespace GERcontactos;
 
 use PDO;
 use PDOException;
